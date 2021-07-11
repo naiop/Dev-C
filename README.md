@@ -11,4 +11,4 @@
 #define RIGHT 'd'
 ```
 
-<img align="right" src="https://naiop.github.io/mimages/picture/tcs.png"  />
+<img  src="https://naiop.github.io/mimages/picture/tcs.png" width="30%"  />
